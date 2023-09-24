@@ -1,5 +1,5 @@
-### StockInfo
-#
+# StockInfo
+
 ### General Info
 - StockInfo requires at least python 3.7 version.
 - StockInfo is still in the development stage. Please use issue or pull request for feedback such as bugs or function requests.
